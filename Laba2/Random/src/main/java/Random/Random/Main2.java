@@ -2,7 +2,7 @@ package Random.Random;
 import java.util.Random;
 public class Main2 {
 	
-public static void Main2(String[] args)
+public static void Main(String[] args)
 {
 Random rand = new Random();
 
