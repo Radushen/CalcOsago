@@ -1,3 +1,4 @@
+package main;
 class ArrayBubble{
     private long[] a;   //ссылка на массив
     private int elems;  //количество элементов в массиве
