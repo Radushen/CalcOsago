@@ -1,8 +1,7 @@
-package Random.Random;
 import java.util.Random;
-public class Main2  {
-	
-public static void Main(String[] args)
+
+public class Main2 {
+public static void main(String[] args)
 {
 Random rand = new Random();
 
