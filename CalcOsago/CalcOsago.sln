@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcOsago", "CalcOSAGO\CalcOsago.csproj", "{31FD4461-3BF0-44A8-8E44-BBF9099133BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{229044FD-803F-4FC0-8169-68F0A4164418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FD4461-3BF0-44A8-8E44-BBF9099133BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FD4461-3BF0-44A8-8E44-BBF9099133BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FD4461-3BF0-44A8-8E44-BBF9099133BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FD4461-3BF0-44A8-8E44-BBF9099133BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBD1A47F-0214-4F74-96BC-4A42F4268AC9}
+	EndGlobalSection
+EndGlobal
