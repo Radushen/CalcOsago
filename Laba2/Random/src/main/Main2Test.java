@@ -18,7 +18,11 @@ class Main2Test {
 
 	@Test
 	void test() {
-		fail("Not yet implemented");
+	Random rand = new Random();
+
+	int mas[] = new int[9];
+	
+	for(int i = 0; i < 9; i++);
 	}
 
 }
