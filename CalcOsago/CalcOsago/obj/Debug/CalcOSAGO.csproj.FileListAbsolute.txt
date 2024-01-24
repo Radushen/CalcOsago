@@ -1,0 +1,115 @@
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\bin\Debug\main_db.db
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\bin\Debug\CalcOSAGO.exe.config
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\bin\Debug\CalcOSAGO.exe
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\bin\Debug\CalcOSAGO.pdb
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.dll
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.dll
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.xml
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.xml
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.csproj.AssemblyReference.cache
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\DriversWindow.g.cs
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\MainWindow.g.cs
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\SettingsWindow.g.cs
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\App.g.cs
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO_MarkupCompile.cache
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO_MarkupCompile.lref
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\App.baml
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\DriversWindow.baml
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\MainWindow.baml
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\SettingsWindow.baml
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.g.resources
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.Properties.Resources.resources
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.csproj.GenerateResource.cache
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.csproj.CoreCompileInputs.cache
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.csproj.CopyComplete
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.exe
+C:\Users\Radushen\Desktop\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.pdb
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\main_db.db
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\CalcOSAGO.exe.config
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\CalcOSAGO.exe
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\CalcOSAGO.pdb
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.dll
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.SqlServer.dll
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.dll
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.EF6.dll
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.Linq.dll
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.xml
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.SqlServer.xml
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.xml
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.dll.config
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.AssemblyReference.cache
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\MainWindow.g.cs
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\App.g.cs
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO_MarkupCompile.cache
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO_MarkupCompile.lref
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\App.baml
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\MainWindow.baml
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.g.resources
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.Properties.Resources.resources
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.GenerateResource.cache
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.CoreCompileInputs.cache
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.CopyComplete
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.exe
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.pdb
+I:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\main_db.db
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\CalcOSAGO.exe.config
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\CalcOSAGO.exe
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\CalcOSAGO.pdb
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.dll
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.SqlServer.dll
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.dll
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.EF6.dll
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.Linq.dll
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.xml
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.SqlServer.xml
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.xml
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.dll.config
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.AssemblyReference.cache
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\MainWindow.g.cs
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\App.g.cs
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO_MarkupCompile.cache
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO_MarkupCompile.lref
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\App.baml
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\MainWindow.baml
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.g.resources
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.Properties.Resources.resources
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.GenerateResource.cache
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.CoreCompileInputs.cache
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.CopyComplete
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.exe
+E:\6_Study\УУНиТ\2 курс 1 сессия\ООП\Курсовая работа\CalcOsago\CalcOSAGO\obj\Debug\CalcOSAGO.pdb
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\main_db.db
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\CalcOsago.exe.config
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\CalcOsago.exe
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\CalcOsago.pdb
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.dll
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.dll
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.xml
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.xml
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.AssemblyReference.cache
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\MainWindow.g.cs
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\App.g.cs
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago_MarkupCompile.cache
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago_MarkupCompile.lref
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\App.baml
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\MainWindow.baml
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.g.resources
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.Properties.Resources.resources
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.GenerateResource.cache
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.CoreCompileInputs.cache
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.CopyComplete
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.exe
+C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.pdb
