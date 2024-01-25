@@ -9,4 +9,152 @@
     <Window.Resources>
         <BooleanToVisibilityConverter x:Key="VisibleIfTrueConverter" />
     </Window.Resources>
+    <Grid Margin="-2,12,45,31">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1566"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Margin="487,433,839,18" Orientation="Vertical" RenderTransformOrigin="0.488,0.502">
+            <TextBlock Text="Вычисленные значения:" FontSize="16" FontFamily="Bahnschrift Condensed" Foreground="Black" Width="132"/>
+            <TextBlock Text="{Binding ResultRascheta}" FontSize="16" Foreground="Black" FontFamily="Bahnschrift Condensed" Height="235" Width="130"/>
+        </StackPanel>
+        <StackPanel
+            Margin="46,90,1107,0" Orientation="Horizontal" Height="51" VerticalAlignment="Top">
+            <ComboBox
+                Width="400" SelectedItem="{Binding SelectedCategoriaTS}" MinWidth="200" Margin="8,0,0,0" ItemsSource="{Binding ListCategoriaTs, UpdateSourceTrigger=PropertyChanged}" Height="40" ScrollViewer.HorizontalScrollBarVisibility="Disabled" FontSize="16" FontFamily="Bahnschrift Condensed" DisplayMemberPath="kategoria_ts"/>
+        </StackPanel>
+        <StackPanel Margin="475,66,0,0" Width="264" Height="200" VerticalAlignment="Top" HorizontalAlignment="Left">
+            <Image Height="100" Width="100" Source="/Logo.png"/>
+            <Label FontSize="72" FontFamily="Bahnschrift Condensed" Content="CalcOsago" Foreground="Black" Height="92" Width="262" Margin="0,-15,0,0"/>
+            <Label FontFamily="Bahnschrift Condensed" Content="Разработчики:" HorizontalContentAlignment="Center" UseLayoutRounding="False" FontSize="16" Height="26" Margin="0,-22,0,0" Width="210.516666666667"/>
+            <Label FontFamily="Bahnschrift Condensed" Content="Гумеров Р.М; Викулов А.Е.; Хамадалина И.И." HorizontalContentAlignment="Center" UseLayoutRounding="False" Height="44" FontSize="14"/>
+        </StackPanel>
+        <StackPanel Margin="487,290,839,279" Width="240">
+            <Button MinHeight="40" Command="{Binding CommandCalc}" ToolTip="Расчет страхового взноса" FontFamily="Bahnschrift Condensed" FontSize="20" Width="239" Height="25">
+                <TextBlock Text="Расчет страхового взноса" FontWeight="Bold"/>
+            </Button>
+            <TextBlock x:Name="TextBlockMassange" Text="{Binding massange_errors}" FontSize="16" Foreground="#FFEA3D3D" FontFamily="Bahnschrift Condensed" Width="152" Height="12" Margin="0,6,0,1"/>
+            <TextBlock Text="Сумма страхового взноса:" FontSize="18" FontFamily="Bahnschrift Condensed" Foreground="Black" Width="154"/>
+            <TextBlock Text="{Binding StrahPrem}" FontSize="24" Foreground="#FFEA3D3D" FontFamily="Bahnschrift Condensed" Width="152" Height="47"/>
+        </StackPanel>
+        <StackPanel Margin="131,179,1215,360" Width="220">
+            <StackPanel Orientation="Horizontal" Height="30" Width="226" HorizontalAlignment="Left">
+                <Label
+                    Width="103" Height="28" FontSize="16" FontFamily="Bahnschrift Condensed" Content="Расчетный КБМ:" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+                <TextBox Width="88" VerticalContentAlignment="Center" Text="{Binding NewKbm}" MaxLength="4" Margin="27,0,0,0" IsEnabled="{Binding BlockKbm}" HorizontalContentAlignment="Center" Height="27" FontSize="16" FontFamily="Bahnschrift Condensed" VerticalAlignment="Stretch"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="30" Width="224" HorizontalAlignment="Left" Margin="0,5,0,0">
+                <Label
+                    Height="27" FontSize="16" FontFamily="Bahnschrift Condensed" Content="Мощность ТС, л.с.:"/>
+                <TextBox
+                    Width="88" VerticalContentAlignment="Center" Text="{Binding PowerTS, Mode=TwoWay, NotifyOnValidationError=True, UpdateSourceTrigger=PropertyChanged}" MaxLength="4" Margin="27,0,0,0" HorizontalContentAlignment="Center" Height="28" FontSize="16" FontFamily="Bahnschrift Condensed"/>
+                <TextBox
+                    Width="87" VerticalContentAlignment="Center" Text="{Binding PowerTS, Mode=TwoWay, NotifyOnValidationError=True, UpdateSourceTrigger=PropertyChanged}" MaxLength="4" HorizontalContentAlignment="Center" Height="28" FontSize="14" FontFamily="Bahnschrift Condensed" Margin="-88,0,0,0"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="30" Width="226" HorizontalAlignment="Left" Margin="0,5,0,0">
+                <Label
+                    Height="27" FontSize="16" FontFamily="Bahnschrift Condensed" Content="Пассажирских мест:" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+                <TextBox
+                    Width="88" VerticalContentAlignment="Center" Text="{Binding CountPassangers, UpdateSourceTrigger=PropertyChanged}" MaxLength="2" Margin="12,0,0,0" HorizontalContentAlignment="Center" Height="27" FontSize="16" FontFamily="Bahnschrift Condensed" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="30" Width="226" HorizontalAlignment="Left" Margin="0,5,0,0">
+                <Label
+                    Width="130" Height="28" FontSize="16" FontFamily="Bahnschrift Condensed" Content="Разрешенная масса, т.:" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+                <TextBox
+                    Width="88" VerticalContentAlignment="Center" Text="{Binding MaxMassaTS, UpdateSourceTrigger=PropertyChanged}" MaxLength="3" HorizontalContentAlignment="Center" Background="White" Height="27" FontSize="14" FontFamily="Bahnschrift Condensed" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Margin="844,175,482,355">
+            <CheckBox
+                IsChecked="{Binding IsTaxi, UpdateSourceTrigger=PropertyChanged}" FontSize="16" FontFamily="Bahnschrift Condensed" Content="    Используется как такси" Width="270" Height="16" Margin="0,5,0,0"/>
+            <CheckBox IsChecked="{Binding IsForegin, UpdateSourceTrigger=PropertyChanged}" FontSize="16" FontFamily="Bahnschrift Condensed" Content="    Гражданин иностранного государства" Width="270" Height="16" Margin="0,13.6,0,0"/>
+            <CheckBox
+                IsChecked="{Binding IsRegularPerevoz, UpdateSourceTrigger=PropertyChanged}" FontSize="16" FontFamily="Bahnschrift Condensed" Content="    Регулярные пассажирские перевозки" Width="270" Height="16" Margin="0,13.6,0,0"/>
+            <CheckBox
+                ToolTip="При установке, срок страхования до 20 дней включительно" IsChecked="{Binding IsTransit, UpdateSourceTrigger=PropertyChanged}" FontFamily="Bahnschrift Condensed" Content="    Следует к месту регистрации ТС" FontSize="16" Width="270" Height="16" Margin="0,13.6,0,0"/>
+            <CheckBox
+                ToolTip="ТС используется с прицепом" IsChecked="{Binding IsPricep, UpdateSourceTrigger=PropertyChanged}" FontSize="16" FontFamily="Bahnschrift Condensed" Content="    Прицеп" Width="270" Height="16" Margin="0,13.6,0,0"/>
+        </StackPanel>
+        <StackPanel Margin="47,356,1107,255" Height="100">
+            <StackPanel Orientation="Horizontal" Width="408" Height="30" Margin="0,5,0,0" HorizontalAlignment="Left">
+                <Label
+                    Height="27" FontSize="16" FontFamily="Bahnschrift Condensed" Content="Период использования" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+                <ComboBox
+                    Width="265" ToolTip="Период использования ТС" SelectedItem="{Binding SelectedPeriodUse}" MinWidth="100" Margin="10,0,0,0" IsEnabled="{Binding BlockPeriodUse}" ItemsSource="{Binding ListPeriodUse, UpdateSourceTrigger=PropertyChanged}" Height="28" FontSize="16" FontFamily="Bahnschrift Condensed" DisplayMemberPath="text_value" VerticalAlignment="Stretch"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="30" Width="408" Margin="0,5,0,0" HorizontalAlignment="Left">
+                <Label
+                    Height="27" FontSize="16" FontFamily="Bahnschrift Condensed" Content="Срок страхования" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+                <ComboBox
+                    Width="293" SelectedItem="{Binding SelectedPeriodStrah}" MinWidth="100" Margin="8,0,0,0" ItemsSource="{Binding ListPeriodStrah, UpdateSourceTrigger=PropertyChanged}" Height="28" FontSize="16" FontFamily="Bahnschrift Condensed" DisplayMemberPath="text_value" VerticalAlignment="Stretch"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Margin="42,440,1107,35">
+            <CheckBox Content="Ограничение лиц, допущенных к управлению"
+                IsChecked="{Binding IsDriverLimit, UpdateSourceTrigger=PropertyChanged}" IsEnabled="{Binding BlockDriverLimit}" FontSize="16" FontFamily="Bahnschrift Condensed" Width="270" Height="20" HorizontalAlignment="Left" Margin="2,0,0,0"/>
+            <StackPanel Orientation="Vertical" Visibility="{Binding IsDriverLimit, Converter={StaticResource VisibleIfTrueConverter}}" Height="205" Width="413" HorizontalAlignment="Left">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Button MinWidth="150" Margin="3,5,5,5" Content="Добавить водителя" Command="{Binding CommandAddDriver}" FontFamily="Bahnschrift Condensed" FontSize="16" Height="29" Width="205"/>
+                    <Button MinWidth="150" Margin="-6,5,5,5" Content="Удалить водителя" Command="{Binding CommandDelDriver}" FontFamily="Bahnschrift Condensed" FontSize="16" Height="29" Width="205" HorizontalAlignment="Right"/>
+                </StackPanel>
+                <Grid HorizontalAlignment="Left" Width="417">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <DataGrid x:Name="datagridDriver" Margin="3,0,5,3" AutoGenerateColumns="False" ItemsSource="{Binding Drivers}" CanUserAddRows="False"
+                        SelectedItem="{Binding SelectedDriver}" CanUserResizeRows="False" HeadersVisibility="Column" FontFamily="Bahnschrift Condensed" FontSize="16" Width="409" IsSynchronizedWithCurrentItem="False">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="" Width="15" Binding="{Binding NameDriver}" FontSize="14" FontWeight="Bold" MaxWidth="50" MinWidth="25"/>
+                            <DataGridTemplateColumn Header="Дата рождения" Width="115" MinWidth="10">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <DatePicker SelectedDate="{Binding AgeDriver, Mode=TwoWay, StringFormat=\{0:dd.MM.yyyy\}, UpdateSourceTrigger=PropertyChanged}"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            <!--<DataGridTextColumn Header="КБМ" Width="*" Binding="{Binding Path=Koeff_kbm, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged,StringFormat='0.00'}"/>-->
+                            <DataGridTemplateColumn Header="Начало стажа вождения" Width="160" MinWidth="10">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <DatePicker SelectedDate="{Binding StageDriver, Mode=TwoWay, StringFormat=\{0:dd.MM.yyyy\}, UpdateSourceTrigger=PropertyChanged}"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            <!--<DataGridComboBoxColumn Header="КБМ-2" Width="50" ItemsSource="{Binding ListKbm}" SelectedItemBinding="{Binding ValueKbm}" DisplayMemberPath="text_value"/>-->
+                            <DataGridTemplateColumn Header="КБМ" Width="*" MinWidth="10">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate DataType="{x:Type local:DB_Driver}">
+                                        <ComboBox ItemsSource="{Binding DataContext.ListKbm, ElementName=datagridDriver}" DisplayMemberPath="koeff"
+                                            SelectedItem="{Binding Koeff_kbm, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" FontSize="14" FontWeight="Bold"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Margin="759,356,398,255" Height="100">
+            <StackPanel Orientation="Horizontal" Width="406" Height="30" Margin="0,5,0,0" HorizontalAlignment="Left">
+                <ComboBox
+                    Width="317" SelectedItem="{Binding SelectedRegion}" MinWidth="150" IsEnabled="{Binding EnableRegions}" ItemsSource="{Binding ListRegions, UpdateSourceTrigger=PropertyChanged}" Height="26" FontSize="16" FontFamily="Bahnschrift Condensed" DisplayMemberPath="text_value" VerticalAlignment="Stretch"/>
+                <Label
+                    Height="26" FontSize="16" FontFamily="Bahnschrift Condensed" Content="Территория" Margin="12,0,0,0" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Width="406" Height="30" Margin="0,5,0,0" HorizontalAlignment="Left">
+                <ComboBox
+                    Width="265" SelectedItem="{Binding SelectedSubRegion}" MinWidth="150" IsEnabled="{Binding EnableSubRegions}" ItemsSource="{Binding ListSubRegions, UpdateSourceTrigger=PropertyChanged}" Height="28" FontSize="16" FontFamily="Bahnschrift Condensed" DisplayMemberPath="text_value" VerticalAlignment="Stretch"/>
+                <Label
+                    Height="26" FontSize="16" FontFamily="Bahnschrift Condensed" Content="Уточнение территории" Margin="6,0,0,0"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Margin="748,91,387,554">
+            <Button MinHeight="40" Command="{Binding CommandReset}"
+            ToolTip="Возврат к стандартным настройкам" FontFamily="Bahnschrift Condensed" FontSize="7" Height="40" Width="400" HorizontalAlignment="Left" Margin="10.9,0,0,0">
+                <TextBlock Text="Очистка результата" FontWeight="Bold" FontSize="16" Height="18" Width="105"/>
+            </Button>
+        </StackPanel>
+    </Grid>
 </Window>
