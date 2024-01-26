@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcOsago", "CalcOSAGO\Calc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{229044FD-803F-4FC0-8169-68F0A4164418}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTest_CalcOsago", "NUnitTest_CalcOsago\NUnitTest_CalcOsago.csproj", "{E7BC3E60-4D93-44B3-B3A8-A8F93D8872E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{31FD4461-3BF0-44A8-8E44-BBF9099133BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31FD4461-3BF0-44A8-8E44-BBF9099133BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31FD4461-3BF0-44A8-8E44-BBF9099133BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7BC3E60-4D93-44B3-B3A8-A8F93D8872E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BC3E60-4D93-44B3-B3A8-A8F93D8872E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BC3E60-4D93-44B3-B3A8-A8F93D8872E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BC3E60-4D93-44B3-B3A8-A8F93D8872E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

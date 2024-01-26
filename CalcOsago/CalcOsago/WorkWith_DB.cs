@@ -10,10 +10,10 @@ using System.Text;
 
 namespace CalcOsago
 {
-    class WorkWith_DB // Класс предназначен для работы с базой данных
+    public class WorkWith_DB // Класс предназначен для работы с базой данных
 
     {
-        private SQLiteConnection connect; // Соединение для работы с файлом - источником данных
+        public SQLiteConnection connect; // Соединение для работы с файлом - источником данных
 
         public ObservableCollection<DB_Person> _getUrFizLico() // Метод получения данных юр.физ. лиц
         {
