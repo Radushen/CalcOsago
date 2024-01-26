@@ -254,7 +254,7 @@ namespace CalcOsago
 
 
 
-        private Dictionary<string, double> FillFormulaResult(Dictionary<string, double> formula) // Функция обрабатывает исходную формулу, и заполняет необходимые коэффициенты
+        public Dictionary<string, double> FillFormulaResult(Dictionary<string, double> formula) // Функция обрабатывает исходную формулу, и заполняет необходимые коэффициенты
         {
             Dictionary<string, double> result_dict = new Dictionary<string, double>(); // Результат вычислений
             foreach (var tmp_record in formula) // Проверяем каждый элемент словаря и вычисляем необходимые коэффициенты

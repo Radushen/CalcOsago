@@ -19,6 +19,8 @@ namespace NUnitTest_CalcOsago
             Assert.That(connectionState, Is.EqualTo(System.Data.ConnectionState.Open));
         }
 
+
+
         [Test]
         public void TestMainWindowView_1() // ѕровер€ет работу метода по возвращению значени€ FioStrah
         {
@@ -33,7 +35,6 @@ namespace NUnitTest_CalcOsago
             // Assert
             Assert.That(result, Is.EqualTo("John Doe"));
         }
-
         [Test]
         public void TestMainWindowView_2() // ѕровер€ет работу метода по возвращению значени€ SelectedUrFizLicoIndex
         {
@@ -49,6 +50,56 @@ namespace NUnitTest_CalcOsago
 
             // Assert
             Assert.That(result, Is.EqualTo(viewModel.DictUrFizLico[0]));
+        }
+
+
+
+        [Test]
+        public void TestCalculation() // ѕровер€ет работу метода по возвращению значени€ SelectedUrFizLicoIndex
+        {
+            // Arrange
+            var calculation = new Calculation(); // Creating an instance of your class
+            
+            var inputFormula = new Dictionary<string, double>
+            {
+                { "Tb:", 0.0 },
+                { "Kt:", 0.0 },
+                { "Kbm:", 0.0 },
+                { "Kvs:", 0.0 },
+                { "Ko:", 0.0 },
+                { "Km:", 100.0 },
+                { "Ks:", 0.0 },
+                { "Kn:", 0.0 },
+                { "Kp:", 0.0 },
+                { "Kpr:", 0.0 }
+            };
+
+            // Act
+            var result = calculation.FillFormulaResult(inputFormula);
+
+            // Assert
+            Assert.IsNotNull(result);
+
+            Assert.IsTrue(result.ContainsKey("Tb:"));
+            Assert.IsTrue(result.ContainsKey("Kt:"));
+            Assert.IsTrue(result.ContainsKey("Kbm:"));
+            Assert.IsTrue(result.ContainsKey("Kvs:"));
+            Assert.IsTrue(result.ContainsKey("Ko:"));
+            Assert.IsTrue(result.ContainsKey("Km:"));
+            Assert.IsTrue(result.ContainsKey("Ks:"));
+            Assert.IsTrue(result.ContainsKey("Kn:"));
+            Assert.IsTrue(result.ContainsKey("Kp:"));
+            Assert.IsTrue(result.ContainsKey("Kpr:"));
+
+            Assert.That(result["Tb:"], Is.EqualTo(0));
+            Assert.That(result["Kt:"], Is.EqualTo(0));
+            Assert.That(result["Kbm:"], Is.EqualTo(1));
+            Assert.That(result["Kvs:"], Is.EqualTo(1));
+            Assert.That(result["Ko:"], Is.EqualTo(1.87));
+            Assert.That(result["Ks:"], Is.EqualTo(1));
+            Assert.That(result["Kn:"], Is.EqualTo(1));
+            Assert.That(result["Kp:"], Is.EqualTo(0.2));
+            Assert.That(result["Kpr:"], Is.EqualTo(1));
         }
     }
 }
