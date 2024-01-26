@@ -113,3 +113,31 @@ C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug
 C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.CopyComplete
 C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.exe
 C:\Users\Radushen\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.pdb
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.AssemblyReference.cache
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\MainWindow.g.cs
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\App.g.cs
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago_MarkupCompile.cache
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago_MarkupCompile.lref
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.exe
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.pdb
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\main_db.db
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\CalcOsago.exe.config
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\CalcOsago.exe
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\CalcOsago.pdb
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.dll
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.xml
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\App.baml
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\MainWindow.baml
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.g.resources
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.Properties.Resources.resources
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.GenerateResource.cache
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.CoreCompileInputs.cache
+C:\Users\Gumerov R.M\source\repos\CalcOsago\CalcOsago\CalcOsago\CalcOSAGO\obj\Debug\CalcOsago.csproj.CopyComplete
