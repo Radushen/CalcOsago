@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NUnitTest_CalcOsago")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a2aa66c14c2e98a1abe0da31b1dfe2b29830976")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac7746b019662ee80a40048473450abb60f963b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("NUnitTest_CalcOsago")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NUnitTest_CalcOsago")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

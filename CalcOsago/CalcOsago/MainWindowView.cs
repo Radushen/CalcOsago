@@ -15,7 +15,7 @@ namespace CalcOsago
     public class ViewModelMainWindow : INotifyPropertyChanged, INotifyDataErrorInfo // Наследуется от интерфейса INotifyPropertyChanged
     {
         // Переменные класса       
-        private Calculation model_data; // Основная модель данных
+        public Calculation model_data; // Основная модель данных
 
         public string FioStrah // ФИО страхователя
         {
